@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\bin\Debug\net7.0\4.7.0_ConditionalOperator.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\bin\Debug\net7.0\4.7.0_ConditionalOperator.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\bin\Debug\net7.0\4.7.0_ConditionalOperator.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\bin\Debug\net7.0\4.7.0_ConditionalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\bin\Debug\net7.0\4.7.0_ConditionalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\refint\4.7.0_ConditionalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\4.7.0_ConditionalOperator.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.7.0_ConditionalOperator\obj\Debug\net7.0\ref\4.7.0_ConditionalOperator.dll

@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\bin\Debug\net7.0\4.6.0_LogicalOperator.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\bin\Debug\net7.0\4.6.0_LogicalOperator.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\bin\Debug\net7.0\4.6.0_LogicalOperator.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\bin\Debug\net7.0\4.6.0_LogicalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\bin\Debug\net7.0\4.6.0_LogicalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\refint\4.6.0_LogicalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\4.6.0_LogicalOperator.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\4.6.0_LogicalOperator\obj\Debug\net7.0\ref\4.6.0_LogicalOperator.dll

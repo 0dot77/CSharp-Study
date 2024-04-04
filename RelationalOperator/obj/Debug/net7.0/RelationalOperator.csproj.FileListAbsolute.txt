@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\bin\Debug\net7.0\RelationalOperator.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\bin\Debug\net7.0\RelationalOperator.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\bin\Debug\net7.0\RelationalOperator.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\bin\Debug\net7.0\RelationalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\bin\Debug\net7.0\RelationalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\refint\RelationalOperator.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\RelationalOperator.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\RelationalOperator\obj\Debug\net7.0\ref\RelationalOperator.dll
