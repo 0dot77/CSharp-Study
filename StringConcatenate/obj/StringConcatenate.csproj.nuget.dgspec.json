@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yty07\\Desktop\\study\\C#\\StringConcatenate\\StringConcatenate.csproj": {}
+    "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\StringConcatenate\\StringConcatenate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yty07\\Desktop\\study\\C#\\StringConcatenate\\StringConcatenate.csproj": {
+    "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\StringConcatenate\\StringConcatenate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yty07\\Desktop\\study\\C#\\StringConcatenate\\StringConcatenate.csproj",
+        "projectUniqueName": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\StringConcatenate\\StringConcatenate.csproj",
         "projectName": "StringConcatenate",
-        "projectPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\StringConcatenate\\StringConcatenate.csproj",
-        "packagesPath": "C:\\Users\\yty07\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\StringConcatenate\\obj\\",
+        "projectPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\StringConcatenate\\StringConcatenate.csproj",
+        "packagesPath": "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\StringConcatenate\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\yty07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YOOTAEYANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

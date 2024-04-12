@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yty07\\.nuget\\packages\\": {}
+    "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yty07\\Desktop\\study\\C#\\0405-Study\\0405-Study.csproj",
+      "projectUniqueName": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\0405-Study\\0405-Study.csproj",
       "projectName": "0405-Study",
-      "projectPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\0405-Study\\0405-Study.csproj",
-      "packagesPath": "C:\\Users\\yty07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\0405-Study\\obj\\",
+      "projectPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\0405-Study\\0405-Study.csproj",
+      "packagesPath": "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\0405-Study\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yty07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\YOOTAEYANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,12 +61,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
