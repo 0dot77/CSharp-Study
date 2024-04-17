@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Runtime.InteropServices;
 
 namespace _5._4_Pattern_Matching
 {
@@ -36,6 +35,7 @@ namespace _5._4_Pattern_Matching
             };
         }
 
+
         // 프로퍼티 패턴
         static string GetNickname(Car car) // 자동차의 클래스를 받아서 처리하는 함수
         {
@@ -65,132 +65,159 @@ namespace _5._4_Pattern_Matching
         // 논리 패턴
 
         static double GetPrice(OrderItem orderItem) => orderItem switch
-        {
             OrderItem { Amount: 0 } or OrderItem { Price: 0 } => 0.0,
+        {
             OrderItem { Amount: >= 100 } and OrderItem { Price: >= 10_000 } => orderItem.Amount * orderItem.Price * 0.8,
         };
         
 
         static void Main(string[] args)
         {
-            /*
-                        // #### 선언 패턴 ####
+    /*
+                // #### 선언 패턴 ####
 
-                        object foo = 23;
+                object foo = 23;
 
-                        if (foo is int bar)
-                        {
-                            Console.WriteLine(bar);
-                            Console.WriteLine(23);
-                        }
-            */
+                if (foo is int bar)
+                {
+                    Console.WriteLine(bar); // 23
+                    Console.WriteLine(23);
+                }
 
-            /*
-                        // #### 형식 패턴 01 ####
+                object hochun = 100;
 
-                        object foo = 23;
+                if (hochun is int h)
+                {
+                    Console.WriteLine("호춘이");
+                    Console.WriteLine(h);
+                }
+    */
 
-                        if(foo is int)
-                        {
-                            Console.WriteLine(foo);
-                        }
+    /*
+                // #### 형식 패턴 01 ####
 
-            */
+                object foo = 23;
 
-            /*
-                        // #### 형식 패턴 02 ####
+                if (foo is int)
+                {
+                    Console.WriteLine(foo);
+                }
+    */
 
-                        Console.WriteLine($"Fee for a senior: {CalculateFee(new Senior())}");
-                        Console.WriteLine($"Fee for a adult: {CalculateFee(new Adult())}");
-                        Console.WriteLine($"Fee for a underage: {CalculateFee(new Underage())}");
-                        Console.WriteLine($"Fee for a preschooler: {CalculateFee(new Preschooler())}");
-            */
-            /*
-                        // #### 상수 패턴 ####
 
-                        var GetCountryCode = (string nation) => nation switch
-                        {
-                            "KR" => 82,
-                            "US" => 1,
-                            "UK" => 44,
-                            _ => throw new ArgumentException("Not supported Code")
-                        };
+    /*
+                // #### 형식 패턴 02 ####
 
-                        Console.WriteLine(GetCountryCode("KR"));
-                        Console.WriteLine(GetCountryCode("US"));
-                        Console.WriteLine(GetCountryCode("UA"));
-                    }
-            */
-            /*
-                        // #### 상수 패턴 예제 만들기 ####
+                Console.WriteLine($"Fee for a senior: {CalculateFee(new Senior())} ");
+                Console.WriteLine($"Fee for a adult: {CalculateFee(new Adult())}");
+                Console.WriteLine($"Fee for a underage: {CalculateFee(new Underage())}");
+                Console.WriteLine($"Fee for a preschooler: {CalculateFee(new Preschooler())}");
+    */
 
-                        var GetMonsterAttack = (int damage) => damage switch
-                        {
-                            10 => "약한 데미지",
-                            50 => "아주 강력한걸?",
-                            100 => "뭘 먹은거야?!",
-                            _ => throw new ArgumentException("데미지 측정 불가")
-                        };
+    /*
+        // #### 상수 패턴 ####
 
-                        Console.WriteLine(GetMonsterAttack(50));
-            */
-            /*
-                        // #### 프로퍼티 패턴 ####
+        var GetCountryCode = (string nation) => nation switch
+        {
+            "KR" => 82,
+            "US" => 1,
+            "UK" => 44,
+            _ => throw new ArgumentException("Not supported Code")
+        };
 
-                        Console.WriteLine(
-                            GetNickname(
-                                new Car() { Model = "Mustang", ProducedAt = new DateTime(1967, 11, 23) })
-                        );
-            */
-            /*
-                        // #### 프로퍼티 패턴 is로 구현하기 ####
 
-                        Console.WriteLine(
-                            GetNicknameUsingIs(
-                                new Car() { Model = "Mustang", ProducedAt = new DateTime(1976, 11, 23) }
-                                ));
-            */
-            /*
-                        // #### 논리 패턴 ####
-
-                        Console.WriteLine(GetPrice(new OrderItem() { Amount = 0, Price = 10_000 }));
-
-            */
-
-            // #### 괄호 패턴 ####
-            /*
-                        object foo = 30;
-
-                        if (foo is (int and > 19))
-                            Console.WriteLine("통과");
-            */
-            /*
-                        // #### 위치 패턴 ####
-
-                        Tuple<string, int> itemPrice = new Tuple<string, int>("espresso", 3000);
-
-                        if(itemPrice is ("espresso", <5000))
-                        {
-                            Console.WriteLine("The Coffee is affordable.");
-                        }
-
-            */
-            /*
-                        // #### var 패턴 ####
-
-                        var isPassed = (int[] scores) => scores.Sum() / scores.Length is var average && Array.TrueForAll(scores, (score) => score >= 60) && average >= 60;
-
-                        int[] scores1 = { 90, 80, 30, 80, 70 };
-
-                        Console.WriteLine($"{string.Join(",", scores1)}: Pass:{isPassed(scores1)}");
-            */
-
-            // #### 목록 패턴 ####
-/*
-            var match = (int[] array) => array is [int, > 10, _];
-
-            Console.WriteLine(match(new int[] {1, 100, 3}));
-*/
+        var GetCountryCode(string nation)
+        {
+            switch (nation)
+            {
+                case: "KR"
+                    return "82";
+                case: "US"
+                    return "1";
+                case: "UK"
+                    return "44";
+            }
         }
+
+
+
+        Console.WriteLine(GetCountryCode("KR"));
+        Console.WriteLine(GetCountryCode("US"));
+        Console.WriteLine(GetCountryCode("UA"));*/
+
+
+    /*
+        // #### 상수 패턴 예제 만들기 ####
+
+        var GetMonsterAttack = (int damage) => damage switch
+        {
+            10 => "약한 데미지",
+            50 => "아주 강력한걸?",
+            100 => "뭘 먹은거야?!",
+            _ => throw new ArgumentException("데미지 측정 불가")
+        };
+
+        Console.WriteLine(GetMonsterAttack(50));
+    */
+
+/*
+    // #### 프로퍼티 패턴 ####
+
+    Console.WriteLine(
+        GetNickname(
+            new Car() { Model = "Mustang", ProducedAt = new DateTime(1967, 11, 23) })
+    );
+*/
+
+    /*
+                // #### 프로퍼티 패턴 is로 구현하기 ####
+
+                Console.WriteLine(
+                    GetNicknameUsingIs(
+                        new Car() { Model = "Mustang", ProducedAt = new DateTime(1976, 11, 23) }
+                        ));
+    */
+    /*
+                // #### 논리 패턴 ####
+
+                Console.WriteLine(GetPrice(new OrderItem() { Amount = 0, Price = 10_000 }));
+
+    */
+
+    // #### 괄호 패턴 ####
+    /*
+                object foo = 30;
+
+                if (foo is (int and > 19))
+                    Console.WriteLine("통과");
+    */
+    /*
+                // #### 위치 패턴 ####
+
+                Tuple<string, int> itemPrice = new Tuple<string, int>("espresso", 3000);
+
+                if(itemPrice is ("espresso", <5000))
+                {
+                    Console.WriteLine("The Coffee is affordable.");
+                }
+
+    */
+    /*
+                // #### var 패턴 ####
+
+                var isPassed = (int[] scores) => scores.Sum() / scores.Length is var average && Array.TrueForAll(scores, (score) => score >= 60) && average >= 60;
+
+                int[] scores1 = { 90, 80, 30, 80, 70 };
+
+                Console.WriteLine($"{string.Join(",", scores1)}: Pass:{isPassed(scores1)}");
+    */
+
+    // #### 목록 패턴 ####
+    /*
+                var match = (int[] array) => array is [int, > 10, _];
+
+                Console.WriteLine(match(new int[] {1, 100, 3}));
+    */
+}
     }
 }

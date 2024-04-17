@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4.7.0_ConditionalOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92105ac096a6c0d0a2f76fca4291386683cdb63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bdfaebda71b0d6755afaf1be43e91897f22274d")]
 [assembly: System.Reflection.AssemblyProductAttribute("4.7.0_ConditionalOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4.7.0_ConditionalOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

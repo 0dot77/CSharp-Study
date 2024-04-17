@@ -12,3 +12,8 @@ C:\Users\YOOTAEYANG\Desktop\Study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\refin
 C:\Users\YOOTAEYANG\Desktop\Study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.pdb
 C:\Users\YOOTAEYANG\Desktop\Study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.genruntimeconfig.cache
 C:\Users\YOOTAEYANG\Desktop\Study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\ref\5.4_Pattern_Matching.dll
+C:\Users\yty07\Desktop\study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\5.4_Pattern_Matching\obj\Debug\net7.0\5.4_Pattern_Matching.sourcelink.json

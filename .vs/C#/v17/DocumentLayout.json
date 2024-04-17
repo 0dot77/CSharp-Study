@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4.8.0_NullConditionalOperator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yty07\\Desktop\\study\\C#\\RelationalOperator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelationalOperator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yty07\\Desktop\\study\\C#\\5.4_Pattern_Matching\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.4_Pattern_Matching\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4.8.0_NullConditionalOperator.csproj",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj",
-              "RelativeDocumentMoniker": "4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj",
-              "RelativeToolTip": "4.8.0_NullConditionalOperator\\4.8.0_NullConditionalOperator.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-05T01:48:20.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\Program.cs",
-              "RelativeDocumentMoniker": "4.8.0_NullConditionalOperator\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\4.8.0_NullConditionalOperator\\Program.cs",
-              "RelativeToolTip": "4.8.0_NullConditionalOperator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\5.4_Pattern_Matching\\Program.cs",
+              "RelativeDocumentMoniker": "5.4_Pattern_Matching\\Program.cs",
+              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\5.4_Pattern_Matching\\Program.cs",
+              "RelativeToolTip": "5.4_Pattern_Matching\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T01:48:18.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\RelationalOperator\\Program.cs",
-              "RelativeDocumentMoniker": "RelationalOperator\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\RelationalOperator\\Program.cs",
-              "RelativeToolTip": "RelationalOperator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T01:47:14.984Z",
+              "WhenOpened": "2024-04-12T09:46:30.907Z",
               "EditorCaption": ""
             }
           ]
