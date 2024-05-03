@@ -16,6 +16,7 @@ namespace _07._1.ClassExercise
             this.Age = age;
             this.Name = name;
         }
+
         public void Eat()
         {
             Console.WriteLine("I am eating");

@@ -38,8 +38,8 @@
             }
 
             Mammal mammal2 = new Cat();
-            Cat cat = mammal2 as Cat;
-            if(cat != null)
+            Cat cat = mammal2 as Cat; // (Cat)mammal2;
+            if (cat != null)
             {
                 cat.Meow();
             }

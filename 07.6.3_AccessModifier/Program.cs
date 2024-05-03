@@ -24,7 +24,6 @@
         {
             try
             {
-
             WaterHeater heater = new WaterHeater();
             heater.SetTemperature(20);
             heater.TurnOnWater();
