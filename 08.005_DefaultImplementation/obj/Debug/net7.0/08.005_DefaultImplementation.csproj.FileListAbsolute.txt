@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\bin\Debug\net7.0\08.005_DefaultImplementation.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\bin\Debug\net7.0\08.005_DefaultImplementation.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\bin\Debug\net7.0\08.005_DefaultImplementation.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\bin\Debug\net7.0\08.005_DefaultImplementation.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\bin\Debug\net7.0\08.005_DefaultImplementation.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\refint\08.005_DefaultImplementation.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\08.005_DefaultImplementation.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.005_DefaultImplementation\obj\Debug\net7.0\ref\08.005_DefaultImplementation.dll

@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\bin\Debug\net7.0\08.004_Quiz.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\bin\Debug\net7.0\08.004_Quiz.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\bin\Debug\net7.0\08.004_Quiz.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\bin\Debug\net7.0\08.004_Quiz.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\bin\Debug\net7.0\08.004_Quiz.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\refint\08.004_Quiz.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\08.004_Quiz.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.004_Quiz\obj\Debug\net7.0\ref\08.004_Quiz.dll

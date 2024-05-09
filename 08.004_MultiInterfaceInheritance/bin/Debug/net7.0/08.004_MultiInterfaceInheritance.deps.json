@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "08.004_MultiInterfaceInheritance/1.0.0": {
+        "runtime": {
+          "08.004_MultiInterfaceInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08.004_MultiInterfaceInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

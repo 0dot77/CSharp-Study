@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\bin\Debug\net7.0\08.003_DerivedInterface.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\bin\Debug\net7.0\08.003_DerivedInterface.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\bin\Debug\net7.0\08.003_DerivedInterface.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\bin\Debug\net7.0\08.003_DerivedInterface.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\bin\Debug\net7.0\08.003_DerivedInterface.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\refint\08.003_DerivedInterface.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\08.003_DerivedInterface.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.003_DerivedInterface\obj\Debug\net7.0\ref\08.003_DerivedInterface.dll

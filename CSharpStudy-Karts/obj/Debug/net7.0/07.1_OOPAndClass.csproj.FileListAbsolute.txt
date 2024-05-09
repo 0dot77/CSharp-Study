@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\bin\Debug\net7.0\07.1_OOPAndClass.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\bin\Debug\net7.0\07.1_OOPAndClass.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\bin\Debug\net7.0\07.1_OOPAndClass.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\bin\Debug\net7.0\07.1_OOPAndClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\bin\Debug\net7.0\07.1_OOPAndClass.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\refint\07.1_OOPAndClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\07.1_OOPAndClass.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\CSharpStudy-Karts\obj\Debug\net7.0\ref\07.1_OOPAndClass.dll
