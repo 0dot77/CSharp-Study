@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\bin\Debug\net7.0\07.017_Structure.exe
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\bin\Debug\net7.0\07.017_Structure.deps.json
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\bin\Debug\net7.0\07.017_Structure.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\bin\Debug\net7.0\07.017_Structure.dll
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\bin\Debug\net7.0\07.017_Structure.pdb
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.dll
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\refint\07.017_Structure.dll
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.pdb
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\07.017_Structure.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.017_Structure\obj\Debug\net7.0\ref\07.017_Structure.dll

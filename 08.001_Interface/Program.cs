@@ -32,11 +32,10 @@
     class ClimateMonitor
     {
         private ILogger logger;
-        public ClimateMonitor(ConsoleLogger logger) // 결국 같은 참조 타입이기 때문에 부모 클래스의 타입 형식에 파생 클래스의 타입이 할당될 수 있다.
+        public ClimateMonitor(FileLogger logger) // 결국 같은 참조 타입이기 때문에 부모 클래스의 타입 형식에 파생 클래스의 타입이 할당될 수 있다.
         {
             this.logger = logger;
         }
-
         public void start()
         {
             while(true)

@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\bin\Debug\net7.0\07.7.0_Inheritance.exe
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\bin\Debug\net7.0\07.7.0_Inheritance.deps.json
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\bin\Debug\net7.0\07.7.0_Inheritance.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\bin\Debug\net7.0\07.7.0_Inheritance.dll
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\bin\Debug\net7.0\07.7.0_Inheritance.pdb
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.dll
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\refint\07.7.0_Inheritance.dll
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.pdb
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\07.7.0_Inheritance.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.7.0_Inheritance\obj\Debug\net7.0\ref\07.7.0_Inheritance.dll

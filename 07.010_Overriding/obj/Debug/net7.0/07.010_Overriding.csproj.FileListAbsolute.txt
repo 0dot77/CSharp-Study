@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\bin\Debug\net7.0\07.010_Overriding.exe
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\bin\Debug\net7.0\07.010_Overriding.deps.json
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\bin\Debug\net7.0\07.010_Overriding.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\bin\Debug\net7.0\07.010_Overriding.dll
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\bin\Debug\net7.0\07.010_Overriding.pdb
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.dll
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\refint\07.010_Overriding.dll
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.pdb
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\07.010_Overriding.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.010_Overriding\obj\Debug\net7.0\ref\07.010_Overriding.dll

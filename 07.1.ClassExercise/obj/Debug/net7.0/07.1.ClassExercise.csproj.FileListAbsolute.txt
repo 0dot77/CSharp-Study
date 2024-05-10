@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\bin\Debug\net7.0\07.1.ClassExercise.exe
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\bin\Debug\net7.0\07.1.ClassExercise.deps.json
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\bin\Debug\net7.0\07.1.ClassExercise.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\bin\Debug\net7.0\07.1.ClassExercise.dll
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\bin\Debug\net7.0\07.1.ClassExercise.pdb
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.dll
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\refint\07.1.ClassExercise.dll
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.pdb
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\07.1.ClassExercise.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.1.ClassExercise\obj\Debug\net7.0\ref\07.1.ClassExercise.dll

@@ -71,13 +71,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.인터페이스", "08.�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.001_Interface", "..\08.001_Interface\08.001_Interface.csproj", "{870E768C-B55A-4E37-8C68-F23C032E13FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.003_DerivedInterface", "..\08.003_DerivedInterface\08.003_DerivedInterface.csproj", "{A1BA8FA8-F535-4227-8E9D-4D2FF21D71D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.003_DerivedInterface", "..\08.003_DerivedInterface\08.003_DerivedInterface.csproj", "{A1BA8FA8-F535-4227-8E9D-4D2FF21D71D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.004_MultiInterfaceInheritance", "..\08.004_MultiInterfaceInheritance\08.004_MultiInterfaceInheritance.csproj", "{7F106338-3078-498C-8795-169E3B555A15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.004_MultiInterfaceInheritance", "..\08.004_MultiInterfaceInheritance\08.004_MultiInterfaceInheritance.csproj", "{7F106338-3078-498C-8795-169E3B555A15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.004_Quiz", "..\08.004_Quiz\08.004_Quiz.csproj", "{EF12EFB8-FD14-4FF4-A8A1-219AB030C2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.004_Quiz", "..\08.004_Quiz\08.004_Quiz.csproj", "{EF12EFB8-FD14-4FF4-A8A1-219AB030C2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.005_DefaultImplementation", "..\08.005_DefaultImplementation\08.005_DefaultImplementation.csproj", "{71CAF395-97A9-40AB-BDCB-6D58EFF73185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.005_DefaultImplementation", "..\08.005_DefaultImplementation\08.005_DefaultImplementation.csproj", "{71CAF395-97A9-40AB-BDCB-6D58EFF73185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.019_Exercise_Compile", "..\07.019_Exercise_Compile\07.019_Exercise_Compile.csproj", "{5DC27C2A-E14A-4C5E-878B-1789070C4DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.001_Example", "..\08.001_Example\08.001_Example.csproj", "{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -229,6 +233,14 @@ Global
 		{71CAF395-97A9-40AB-BDCB-6D58EFF73185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CAF395-97A9-40AB-BDCB-6D58EFF73185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CAF395-97A9-40AB-BDCB-6D58EFF73185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC27C2A-E14A-4C5E-878B-1789070C4DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC27C2A-E14A-4C5E-878B-1789070C4DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC27C2A-E14A-4C5E-878B-1789070C4DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC27C2A-E14A-4C5E-878B-1789070C4DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -270,6 +282,8 @@ Global
 		{7F106338-3078-498C-8795-169E3B555A15} = {BE2DC1D9-ED87-4658-9765-E32F1D8B03E2}
 		{EF12EFB8-FD14-4FF4-A8A1-219AB030C2D8} = {BE2DC1D9-ED87-4658-9765-E32F1D8B03E2}
 		{71CAF395-97A9-40AB-BDCB-6D58EFF73185} = {BE2DC1D9-ED87-4658-9765-E32F1D8B03E2}
+		{5DC27C2A-E14A-4C5E-878B-1789070C4DB4} = {32A5D911-D90C-454C-AA1A-46BB9A358E99}
+		{4EF841FE-6A6D-44A8-ACEE-CF788808DAF7} = {BE2DC1D9-ED87-4658-9765-E32F1D8B03E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E9DA45C-CE63-494A-908C-EB11893AEE41}

@@ -4,7 +4,7 @@ namespace MyExtension
 {
     static class MyStringExtension
     {
-       static public string Append(this string myString, string stringToAppend)
+       public static string Append(this string myString, string stringToAppend)
         {
             return myString + stringToAppend;
         }

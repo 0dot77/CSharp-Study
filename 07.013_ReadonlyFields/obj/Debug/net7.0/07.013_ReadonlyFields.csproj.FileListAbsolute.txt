@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\bin\Debug\net7.0\07.013_ReadonlyFields.exe
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\bin\Debug\net7.0\07.013_ReadonlyFields.deps.json
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\bin\Debug\net7.0\07.013_ReadonlyFields.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\bin\Debug\net7.0\07.013_ReadonlyFields.dll
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\bin\Debug\net7.0\07.013_ReadonlyFields.pdb
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.dll
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\refint\07.013_ReadonlyFields.dll
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.pdb
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\07.013_ReadonlyFields.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.013_ReadonlyFields\obj\Debug\net7.0\ref\07.013_ReadonlyFields.dll

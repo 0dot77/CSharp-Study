@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\bin\Debug\net7.0\08.001_Interface.exe
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\bin\Debug\net7.0\08.001_Interface.deps.json
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\bin\Debug\net7.0\08.001_Interface.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\bin\Debug\net7.0\08.001_Interface.dll
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\bin\Debug\net7.0\08.001_Interface.pdb
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.dll
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\refint\08.001_Interface.dll
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.pdb
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\08.001_Interface.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\08.001_Interface\obj\Debug\net7.0\ref\08.001_Interface.dll

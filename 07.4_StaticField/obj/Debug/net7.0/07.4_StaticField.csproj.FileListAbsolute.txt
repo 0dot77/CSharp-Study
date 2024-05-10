@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\bin\Debug\net7.0\07.4_StaticField.exe
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\bin\Debug\net7.0\07.4_StaticField.deps.json
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\bin\Debug\net7.0\07.4_StaticField.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\bin\Debug\net7.0\07.4_StaticField.dll
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\bin\Debug\net7.0\07.4_StaticField.pdb
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.dll
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\refint\07.4_StaticField.dll
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.pdb
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\07.4_StaticField.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.4_StaticField\obj\Debug\net7.0\ref\07.4_StaticField.dll

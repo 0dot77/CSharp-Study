@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\bin\Debug\net7.0\07.7.1_TypeCasting.exe
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\bin\Debug\net7.0\07.7.1_TypeCasting.deps.json
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\bin\Debug\net7.0\07.7.1_TypeCasting.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\bin\Debug\net7.0\07.7.1_TypeCasting.dll
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\bin\Debug\net7.0\07.7.1_TypeCasting.pdb
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.dll
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\refint\07.7.1_TypeCasting.dll
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.pdb
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\07.7.1_TypeCasting.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.7.1_TypeCasting\obj\Debug\net7.0\ref\07.7.1_TypeCasting.dll

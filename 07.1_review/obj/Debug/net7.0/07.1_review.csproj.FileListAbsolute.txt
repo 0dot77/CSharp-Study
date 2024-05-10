@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.1_review\bin\Debug\net7.0\07.1_review.exe
+C:\Users\yty07\Desktop\study\C#\07.1_review\bin\Debug\net7.0\07.1_review.deps.json
+C:\Users\yty07\Desktop\study\C#\07.1_review\bin\Debug\net7.0\07.1_review.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.1_review\bin\Debug\net7.0\07.1_review.dll
+C:\Users\yty07\Desktop\study\C#\07.1_review\bin\Debug\net7.0\07.1_review.pdb
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.dll
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\refint\07.1_review.dll
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.pdb
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\07.1_review.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.1_review\obj\Debug\net7.0\ref\07.1_review.dll

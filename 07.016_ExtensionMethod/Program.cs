@@ -14,20 +14,25 @@ namespace MyExtension
             int result = myInt;
             for (int i = 1; i < exp; i++)
             {
-                result = result * myInt;
+                result *= myInt;
             }
             return result;
         }
 
     }
 }
+
 namespace _07._016_ExtensionMethod
 {
+    class Taeyang
+    {
+        public int hi = 10; // 4바이트
+        public string dkqmkd = "100"; // 8바이트
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\bin\Debug\net7.0\07.019_ExerciseSwitch.exe
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\bin\Debug\net7.0\07.019_ExerciseSwitch.deps.json
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\bin\Debug\net7.0\07.019_ExerciseSwitch.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\bin\Debug\net7.0\07.019_ExerciseSwitch.dll
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\bin\Debug\net7.0\07.019_ExerciseSwitch.pdb
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.dll
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\refint\07.019_ExerciseSwitch.dll
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.pdb
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\07.019_ExerciseSwitch.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.019_ExerciseSwitch\obj\Debug\net7.0\ref\07.019_ExerciseSwitch.dll

@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\": {},
+    "C:\\Users\\yty07\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.017_ReadonlyMethod\\07.017_ReadonlyMethod.csproj",
+      "projectUniqueName": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.017_ReadonlyMethod\\07.017_ReadonlyMethod.csproj",
       "projectName": "07.017_ReadonlyMethod",
-      "projectPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.017_ReadonlyMethod\\07.017_ReadonlyMethod.csproj",
-      "packagesPath": "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.017_ReadonlyMethod\\obj\\",
+      "projectPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.017_ReadonlyMethod\\07.017_ReadonlyMethod.csproj",
+      "packagesPath": "C:\\Users\\yty07\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.017_ReadonlyMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\YOOTAEYANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yty07\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -45,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

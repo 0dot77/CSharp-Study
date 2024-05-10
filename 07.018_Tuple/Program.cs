@@ -17,6 +17,7 @@
             // 분해2
             var (Name2, Age2) = ("스파이더맨", 20);
             Console.WriteLine($"{Name2} {Age2}");
+
         }
     }
 }

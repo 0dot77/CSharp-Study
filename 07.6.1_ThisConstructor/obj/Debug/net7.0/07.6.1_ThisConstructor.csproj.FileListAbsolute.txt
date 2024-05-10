@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\bin\Debug\net7.0\07.6.1_ThisConstructor.exe
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\bin\Debug\net7.0\07.6.1_ThisConstructor.deps.json
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\bin\Debug\net7.0\07.6.1_ThisConstructor.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\bin\Debug\net7.0\07.6.1_ThisConstructor.dll
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\bin\Debug\net7.0\07.6.1_ThisConstructor.pdb
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.dll
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\refint\07.6.1_ThisConstructor.dll
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.pdb
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\07.6.1_ThisConstructor.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.6.1_ThisConstructor\obj\Debug\net7.0\ref\07.6.1_ThisConstructor.dll

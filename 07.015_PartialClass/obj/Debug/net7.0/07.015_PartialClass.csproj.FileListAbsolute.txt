@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\bin\Debug\net7.0\07.015_PartialClass.exe
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\bin\Debug\net7.0\07.015_PartialClass.deps.json
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\bin\Debug\net7.0\07.015_PartialClass.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\bin\Debug\net7.0\07.015_PartialClass.dll
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\bin\Debug\net7.0\07.015_PartialClass.pdb
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.dll
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\refint\07.015_PartialClass.dll
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.pdb
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\07.015_PartialClass.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.015_PartialClass\obj\Debug\net7.0\ref\07.015_PartialClass.dll

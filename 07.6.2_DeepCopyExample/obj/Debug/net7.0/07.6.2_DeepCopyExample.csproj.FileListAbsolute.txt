@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\bin\Debug\net7.0\07.6.2_DeepCopyExample.exe
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\bin\Debug\net7.0\07.6.2_DeepCopyExample.deps.json
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\bin\Debug\net7.0\07.6.2_DeepCopyExample.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\bin\Debug\net7.0\07.6.2_DeepCopyExample.dll
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\bin\Debug\net7.0\07.6.2_DeepCopyExample.pdb
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.dll
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\refint\07.6.2_DeepCopyExample.dll
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.pdb
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\07.6.2_DeepCopyExample.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\07.6.2_DeepCopyExample\obj\Debug\net7.0\ref\07.6.2_DeepCopyExample.dll
