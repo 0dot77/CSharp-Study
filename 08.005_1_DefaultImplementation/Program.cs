@@ -2,8 +2,10 @@
 {
     interface ILogger
     {
+        // 5년 전에 작성 된 것
         void WriteLog(string message);
 
+        // 현재 작성한 것
         void WriteError(string error)
         {
             WriteError(error);
