@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\bin\Debug\net7.0\09.005_InitOnly.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\bin\Debug\net7.0\09.005_InitOnly.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\bin\Debug\net7.0\09.005_InitOnly.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\bin\Debug\net7.0\09.005_InitOnly.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\bin\Debug\net7.0\09.005_InitOnly.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\refint\09.005_InitOnly.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\09.005_InitOnly.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.005_InitOnly\obj\Debug\net7.0\ref\09.005_InitOnly.dll

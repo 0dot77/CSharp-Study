@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\bin\Debug\net7.0\09.006_RequiredProperty.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\bin\Debug\net7.0\09.006_RequiredProperty.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\bin\Debug\net7.0\09.006_RequiredProperty.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\bin\Debug\net7.0\09.006_RequiredProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\bin\Debug\net7.0\09.006_RequiredProperty.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\refint\09.006_RequiredProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\09.006_RequiredProperty.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.006_RequiredProperty\obj\Debug\net7.0\ref\09.006_RequiredProperty.dll

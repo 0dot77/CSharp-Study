@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\bin\Debug\net7.0\09.001_Property.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\bin\Debug\net7.0\09.001_Property.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\bin\Debug\net7.0\09.001_Property.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\bin\Debug\net7.0\09.001_Property.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\bin\Debug\net7.0\09.001_Property.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\refint\09.001_Property.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\09.001_Property.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.001_Property\obj\Debug\net7.0\ref\09.001_Property.dll

@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\bin\Debug\net7.0\08.006_AbstractClass.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\bin\Debug\net7.0\08.006_AbstractClass.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\bin\Debug\net7.0\08.006_AbstractClass.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\bin\Debug\net7.0\08.006_AbstractClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\bin\Debug\net7.0\08.006_AbstractClass.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\refint\08.006_AbstractClass.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\08.006_AbstractClass.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\08.006_AbstractClass\obj\Debug\net7.0\ref\08.006_AbstractClass.dll

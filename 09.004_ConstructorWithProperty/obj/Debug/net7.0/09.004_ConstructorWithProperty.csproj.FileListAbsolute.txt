@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\bin\Debug\net7.0\09.004_ConstructorWithProperty.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\bin\Debug\net7.0\09.004_ConstructorWithProperty.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\bin\Debug\net7.0\09.004_ConstructorWithProperty.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\bin\Debug\net7.0\09.004_ConstructorWithProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\bin\Debug\net7.0\09.004_ConstructorWithProperty.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\refint\09.004_ConstructorWithProperty.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\09.004_ConstructorWithProperty.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\09.004_ConstructorWithProperty\obj\Debug\net7.0\ref\09.004_ConstructorWithProperty.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yty07\\Desktop\\study\\C#\\07.018_Tuple\\07.018_Tuple.csproj": {}
+    "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.018_Tuple\\07.018_Tuple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yty07\\Desktop\\study\\C#\\07.018_Tuple\\07.018_Tuple.csproj": {
+    "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.018_Tuple\\07.018_Tuple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.018_Tuple\\07.018_Tuple.csproj",
+        "projectUniqueName": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.018_Tuple\\07.018_Tuple.csproj",
         "projectName": "07.018_Tuple",
-        "projectPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.018_Tuple\\07.018_Tuple.csproj",
-        "packagesPath": "C:\\Users\\yty07\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\07.018_Tuple\\obj\\",
+        "projectPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.018_Tuple\\07.018_Tuple.csproj",
+        "packagesPath": "C:\\Users\\YOOTAEYANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YOOTAEYANG\\Desktop\\Study\\C#\\07.018_Tuple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yty07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YOOTAEYANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
