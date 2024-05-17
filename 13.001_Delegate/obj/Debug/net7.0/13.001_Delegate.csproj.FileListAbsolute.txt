@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\bin\Debug\net7.0\13.001_Delegate.exe
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\bin\Debug\net7.0\13.001_Delegate.deps.json
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\bin\Debug\net7.0\13.001_Delegate.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\bin\Debug\net7.0\13.001_Delegate.dll
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\bin\Debug\net7.0\13.001_Delegate.pdb
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.dll
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\refint\13.001_Delegate.dll
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.pdb
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\13.001_Delegate.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\13.001_Delegate\obj\Debug\net7.0\ref\13.001_Delegate.dll

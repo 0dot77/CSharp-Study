@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07.013_ReadonlyFields")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfee0c0da07487a8d84d9109f313666555b9010e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5efe8f70c25eba68e2623c8664d673f56a42655")]
 [assembly: System.Reflection.AssemblyProductAttribute("07.013_ReadonlyFields")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07.013_ReadonlyFields")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

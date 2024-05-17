@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\09.007_Record\bin\Debug\net7.0\09.007_Record.exe
+C:\Users\yty07\Desktop\study\C#\09.007_Record\bin\Debug\net7.0\09.007_Record.deps.json
+C:\Users\yty07\Desktop\study\C#\09.007_Record\bin\Debug\net7.0\09.007_Record.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\09.007_Record\bin\Debug\net7.0\09.007_Record.dll
+C:\Users\yty07\Desktop\study\C#\09.007_Record\bin\Debug\net7.0\09.007_Record.pdb
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.dll
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\refint\09.007_Record.dll
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.pdb
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\09.007_Record.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\09.007_Record\obj\Debug\net7.0\ref\09.007_Record.dll
