@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\bin\Debug\net7.0\10.009_2DArray.exe
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\bin\Debug\net7.0\10.009_2DArray.deps.json
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\bin\Debug\net7.0\10.009_2DArray.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\bin\Debug\net7.0\10.009_2DArray.dll
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\bin\Debug\net7.0\10.009_2DArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.dll
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\refint\10.009_2DArray.dll
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\10.009_2DArray.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.009_2DArray\obj\Debug\net7.0\ref\10.009_2DArray.dll

@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\bin\Debug\net7.0\09.018_AnonymousType.exe
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\bin\Debug\net7.0\09.018_AnonymousType.deps.json
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\bin\Debug\net7.0\09.018_AnonymousType.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\bin\Debug\net7.0\09.018_AnonymousType.dll
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\bin\Debug\net7.0\09.018_AnonymousType.pdb
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.dll
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\refint\09.018_AnonymousType.dll
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.pdb
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\09.018_AnonymousType.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\09.018_AnonymousType\obj\Debug\net7.0\ref\09.018_AnonymousType.dll

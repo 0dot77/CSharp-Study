@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\bin\Debug\net7.0\10.005_InitializingArray.exe
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\bin\Debug\net7.0\10.005_InitializingArray.deps.json
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\bin\Debug\net7.0\10.005_InitializingArray.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\bin\Debug\net7.0\10.005_InitializingArray.dll
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\bin\Debug\net7.0\10.005_InitializingArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.dll
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\refint\10.005_InitializingArray.dll
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\10.005_InitializingArray.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.005_InitializingArray\obj\Debug\net7.0\ref\10.005_InitializingArray.dll

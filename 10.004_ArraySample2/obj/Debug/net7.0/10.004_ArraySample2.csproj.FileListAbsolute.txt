@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\bin\Debug\net7.0\10.004_ArraySample2.exe
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\bin\Debug\net7.0\10.004_ArraySample2.deps.json
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\bin\Debug\net7.0\10.004_ArraySample2.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\bin\Debug\net7.0\10.004_ArraySample2.dll
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\bin\Debug\net7.0\10.004_ArraySample2.pdb
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.dll
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\refint\10.004_ArraySample2.dll
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.pdb
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\10.004_ArraySample2.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.004_ArraySample2\obj\Debug\net7.0\ref\10.004_ArraySample2.dll

@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\bin\Debug\net7.0\09.017_RecordComp.exe
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\bin\Debug\net7.0\09.017_RecordComp.deps.json
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\bin\Debug\net7.0\09.017_RecordComp.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\bin\Debug\net7.0\09.017_RecordComp.dll
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\bin\Debug\net7.0\09.017_RecordComp.pdb
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.dll
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\refint\09.017_RecordComp.dll
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.pdb
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\09.017_RecordComp.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\09.017_RecordComp\obj\Debug\net7.0\ref\09.017_RecordComp.dll

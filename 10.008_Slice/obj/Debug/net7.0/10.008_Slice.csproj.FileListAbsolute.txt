@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\bin\Debug\net7.0\10.008_Slice.exe
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\bin\Debug\net7.0\10.008_Slice.deps.json
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\bin\Debug\net7.0\10.008_Slice.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\bin\Debug\net7.0\10.008_Slice.dll
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\bin\Debug\net7.0\10.008_Slice.pdb
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.dll
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\refint\10.008_Slice.dll
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.pdb
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\10.008_Slice.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.008_Slice\obj\Debug\net7.0\ref\10.008_Slice.dll

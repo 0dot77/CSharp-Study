@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07.4_StaticField")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5efe8f70c25eba68e2623c8664d673f56a42655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9314b14ae14d265101fdb781e42c37e59e261b")]
 [assembly: System.Reflection.AssemblyProductAttribute("07.4_StaticField")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07.4_StaticField")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

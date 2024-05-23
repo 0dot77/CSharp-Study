@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\bin\Debug\net7.0\10.006_DerivedFromArray.exe
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\bin\Debug\net7.0\10.006_DerivedFromArray.deps.json
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\bin\Debug\net7.0\10.006_DerivedFromArray.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\bin\Debug\net7.0\10.006_DerivedFromArray.dll
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\bin\Debug\net7.0\10.006_DerivedFromArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.dll
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\refint\10.006_DerivedFromArray.dll
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\10.006_DerivedFromArray.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.006_DerivedFromArray\obj\Debug\net7.0\ref\10.006_DerivedFromArray.dll

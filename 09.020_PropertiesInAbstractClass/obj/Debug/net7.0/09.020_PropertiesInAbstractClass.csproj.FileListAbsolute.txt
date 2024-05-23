@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\bin\Debug\net7.0\09.020_PropertiesInAbstractClass.exe
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\bin\Debug\net7.0\09.020_PropertiesInAbstractClass.deps.json
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\bin\Debug\net7.0\09.020_PropertiesInAbstractClass.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\bin\Debug\net7.0\09.020_PropertiesInAbstractClass.dll
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\bin\Debug\net7.0\09.020_PropertiesInAbstractClass.pdb
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.dll
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\refint\09.020_PropertiesInAbstractClass.dll
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.pdb
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\09.020_PropertiesInAbstractClass.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\09.020_PropertiesInAbstractClass\obj\Debug\net7.0\ref\09.020_PropertiesInAbstractClass.dll

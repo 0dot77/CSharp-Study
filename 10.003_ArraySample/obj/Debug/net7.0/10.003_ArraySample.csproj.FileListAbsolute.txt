@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\bin\Debug\net7.0\10.003_ArraySample.exe
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\bin\Debug\net7.0\10.003_ArraySample.deps.json
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\bin\Debug\net7.0\10.003_ArraySample.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\bin\Debug\net7.0\10.003_ArraySample.dll
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\bin\Debug\net7.0\10.003_ArraySample.pdb
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.dll
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\refint\10.003_ArraySample.dll
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.pdb
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\10.003_ArraySample.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.003_ArraySample\obj\Debug\net7.0\ref\10.003_ArraySample.dll

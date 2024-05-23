@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\bin\Debug\net7.0\09.018_PropertiesInInterface.exe
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\bin\Debug\net7.0\09.018_PropertiesInInterface.deps.json
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\bin\Debug\net7.0\09.018_PropertiesInInterface.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\bin\Debug\net7.0\09.018_PropertiesInInterface.dll
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\bin\Debug\net7.0\09.018_PropertiesInInterface.pdb
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.dll
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\refint\09.018_PropertiesInInterface.dll
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.pdb
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\09.018_PropertiesInInterface.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\09.018_PropertiesInInterface\obj\Debug\net7.0\ref\09.018_PropertiesInInterface.dll

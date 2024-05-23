@@ -3,22 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\yty07\\Desktop\\study\\C#\\CSharpStudy-Karts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B224D4AF-1D16-4F94-A2B3-160F0FC01552}|..\\10.002_ArraySample2\\10.002_ArraySample2.csproj|c:\\users\\yty07\\desktop\\study\\c#\\10.002_arraysample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211BDC6A-05AA-4A37-81C7-FB19381798E9}|..\\10.010_3DArray\\10.010_3DArray.csproj|c:\\users\\yty07\\desktop\\study\\c#\\10.010_3darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0E9FAF-E369-4F14-8E97-C1D0FA5305FC}|..\\10.001_ArraySample\\10.001_ArraySample.csproj|c:\\users\\yty07\\desktop\\study\\c#\\10.001_arraysample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9424A1-2BEA-4459-A5EB-1FE22FE01007}|..\\10.009_2DArray\\10.009_2DArray.csproj|c:\\users\\yty07\\desktop\\study\\c#\\10.009_2darray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12DB1F6C-CA66-4551-B707-898BCD4FD673}|..\\09.014_EX002\\09.014_EX002.csproj|c:\\users\\yty07\\desktop\\study\\c#\\09.014_ex002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E57E7F4-D8E3-44A1-9FBF-6AAF9FF4D958}|..\\09.013_EX001\\09.013_EX001.csproj|c:\\users\\yty07\\desktop\\study\\c#\\09.013_ex001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD915FE0-5260-4D30-98EE-64D103BB472F}|..\\09.012_PropertiesInAbstractClass\\09.012_PropertiesInAbstractClass.csproj|c:\\users\\yty07\\desktop\\study\\c#\\09.012_propertiesinabstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63870C77-CC69-4594-912A-D6117B2B6B75}|..\\09.011_PropertiesInInterface\\09.011_PropertiesInInterface.csproj|c:\\users\\yty07\\desktop\\study\\c#\\09.011_propertiesininterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5CE9CE1-D52F-42DA-85F2-AFE32E6AB3F8}|..\\10.008_Slice\\10.008_Slice.csproj|c:\\users\\yty07\\desktop\\study\\c#\\10.008_slice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,78 +29,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.002_ArraySample2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\10.002_ArraySample2\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.002_ArraySample2\\Program.cs",
-              "RelativeToolTip": "..\\10.002_ArraySample2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.010_3DArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\10.010_3DArray\\Program.cs",
+              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.010_3DArray\\Program.cs",
+              "RelativeToolTip": "..\\10.010_3DArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:53:43.176Z",
+              "WhenOpened": "2024-05-23T15:44:23.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.001_ArraySample\\Program.cs",
-              "RelativeDocumentMoniker": "..\\10.001_ArraySample\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.001_ArraySample\\Program.cs",
-              "RelativeToolTip": "..\\10.001_ArraySample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.009_2DArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\10.009_2DArray\\Program.cs",
+              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.009_2DArray\\Program.cs",
+              "RelativeToolTip": "..\\10.009_2DArray\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:50:04.696Z",
+              "WhenOpened": "2024-05-23T15:40:00.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.014_EX002\\Program.cs",
-              "RelativeDocumentMoniker": "..\\09.014_EX002\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.014_EX002\\Program.cs",
-              "RelativeToolTip": "..\\09.014_EX002\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.008_Slice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\10.008_Slice\\Program.cs",
+              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\10.008_Slice\\Program.cs",
+              "RelativeToolTip": "..\\10.008_Slice\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAywBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:45:56.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.013_EX001\\Program.cs",
-              "RelativeDocumentMoniker": "..\\09.013_EX001\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.013_EX001\\Program.cs",
-              "RelativeToolTip": "..\\09.013_EX001\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:44:12.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.012_PropertiesInAbstractClass\\Program.cs",
-              "RelativeDocumentMoniker": "..\\09.012_PropertiesInAbstractClass\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.012_PropertiesInAbstractClass\\Program.cs",
-              "RelativeToolTip": "..\\09.012_PropertiesInAbstractClass\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADwvyoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:38:03.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.011_PropertiesInInterface\\Program.cs",
-              "RelativeDocumentMoniker": "..\\09.011_PropertiesInInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\yty07\\Desktop\\study\\C#\\09.011_PropertiesInInterface\\Program.cs",
-              "RelativeToolTip": "..\\09.011_PropertiesInInterface\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBAwCAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:32:04.431Z",
+              "WhenOpened": "2024-05-23T15:33:38.787Z",
               "EditorCaption": ""
             }
           ]

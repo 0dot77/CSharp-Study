@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\bin\Debug\net7.0\10.007_MoreOnArray.exe
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\bin\Debug\net7.0\10.007_MoreOnArray.deps.json
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\bin\Debug\net7.0\10.007_MoreOnArray.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\bin\Debug\net7.0\10.007_MoreOnArray.dll
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\bin\Debug\net7.0\10.007_MoreOnArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.dll
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\refint\10.007_MoreOnArray.dll
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.pdb
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\10.007_MoreOnArray.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.007_MoreOnArray\obj\Debug\net7.0\ref\10.007_MoreOnArray.dll
