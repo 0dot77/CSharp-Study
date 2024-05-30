@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\bin\Debug\net7.0\10.012_UsingList.exe
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\bin\Debug\net7.0\10.012_UsingList.deps.json
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\bin\Debug\net7.0\10.012_UsingList.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\bin\Debug\net7.0\10.012_UsingList.dll
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\bin\Debug\net7.0\10.012_UsingList.pdb
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.dll
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\refint\10.012_UsingList.dll
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.pdb
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\10.012_UsingList.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.012_UsingList\obj\Debug\net7.0\ref\10.012_UsingList.dll
