@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\bin\Debug\net7.0\10.016_InitializingCollections.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\bin\Debug\net7.0\10.016_InitializingCollections.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\bin\Debug\net7.0\10.016_InitializingCollections.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\bin\Debug\net7.0\10.016_InitializingCollections.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\bin\Debug\net7.0\10.016_InitializingCollections.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\refint\10.016_InitializingCollections.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\10.016_InitializingCollections.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.016_InitializingCollections\obj\Debug\net7.0\ref\10.016_InitializingCollections.dll

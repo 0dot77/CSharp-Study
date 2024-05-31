@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\bin\Debug\net7.0\10.019_Enumerable.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\bin\Debug\net7.0\10.019_Enumerable.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\bin\Debug\net7.0\10.019_Enumerable.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\bin\Debug\net7.0\10.019_Enumerable.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\bin\Debug\net7.0\10.019_Enumerable.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\refint\10.019_Enumerable.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\10.019_Enumerable.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.019_Enumerable\obj\Debug\net7.0\ref\10.019_Enumerable.dll

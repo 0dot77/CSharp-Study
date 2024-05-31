@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\bin\Debug\net7.0\10.014_UsingStack.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\bin\Debug\net7.0\10.014_UsingStack.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\bin\Debug\net7.0\10.014_UsingStack.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\bin\Debug\net7.0\10.014_UsingStack.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\bin\Debug\net7.0\10.014_UsingStack.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\refint\10.014_UsingStack.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\10.014_UsingStack.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.014_UsingStack\obj\Debug\net7.0\ref\10.014_UsingStack.dll

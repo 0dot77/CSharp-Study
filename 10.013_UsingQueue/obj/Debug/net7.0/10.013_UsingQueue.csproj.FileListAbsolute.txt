@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\bin\Debug\net7.0\10.013_UsingQueue.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\bin\Debug\net7.0\10.013_UsingQueue.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\bin\Debug\net7.0\10.013_UsingQueue.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\bin\Debug\net7.0\10.013_UsingQueue.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\bin\Debug\net7.0\10.013_UsingQueue.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\refint\10.013_UsingQueue.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\10.013_UsingQueue.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.013_UsingQueue\obj\Debug\net7.0\ref\10.013_UsingQueue.dll

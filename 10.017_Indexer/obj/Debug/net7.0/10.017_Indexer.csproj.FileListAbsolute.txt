@@ -1,0 +1,14 @@
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\bin\Debug\net7.0\10.017_Indexer.exe
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\bin\Debug\net7.0\10.017_Indexer.deps.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\bin\Debug\net7.0\10.017_Indexer.runtimeconfig.json
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\bin\Debug\net7.0\10.017_Indexer.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\bin\Debug\net7.0\10.017_Indexer.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.AssemblyInfoInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.AssemblyInfo.cs
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\refint\10.017_Indexer.dll
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.pdb
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\10.017_Indexer.genruntimeconfig.cache
+C:\Users\YOOTAEYANG\Desktop\Study\C#\10.017_Indexer\obj\Debug\net7.0\ref\10.017_Indexer.dll
