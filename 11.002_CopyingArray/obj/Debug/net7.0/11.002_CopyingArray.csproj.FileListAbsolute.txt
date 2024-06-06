@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\bin\Debug\net7.0\11.002_CopyingArray.exe
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\bin\Debug\net7.0\11.002_CopyingArray.deps.json
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\bin\Debug\net7.0\11.002_CopyingArray.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\bin\Debug\net7.0\11.002_CopyingArray.dll
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\bin\Debug\net7.0\11.002_CopyingArray.pdb
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.dll
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\refint\11.002_CopyingArray.dll
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.pdb
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\11.002_CopyingArray.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\11.002_CopyingArray\obj\Debug\net7.0\ref\11.002_CopyingArray.dll

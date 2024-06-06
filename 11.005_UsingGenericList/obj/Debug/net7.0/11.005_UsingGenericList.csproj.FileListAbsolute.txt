@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\bin\Debug\net7.0\11.005_UsingGenericList.exe
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\bin\Debug\net7.0\11.005_UsingGenericList.deps.json
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\bin\Debug\net7.0\11.005_UsingGenericList.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\bin\Debug\net7.0\11.005_UsingGenericList.dll
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\bin\Debug\net7.0\11.005_UsingGenericList.pdb
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.dll
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\refint\11.005_UsingGenericList.dll
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.pdb
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\11.005_UsingGenericList.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\11.005_UsingGenericList\obj\Debug\net7.0\ref\11.005_UsingGenericList.dll

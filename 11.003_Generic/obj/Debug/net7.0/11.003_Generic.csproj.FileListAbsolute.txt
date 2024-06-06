@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\bin\Debug\net7.0\11.003_Generic.exe
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\bin\Debug\net7.0\11.003_Generic.deps.json
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\bin\Debug\net7.0\11.003_Generic.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\bin\Debug\net7.0\11.003_Generic.dll
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\bin\Debug\net7.0\11.003_Generic.pdb
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.dll
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\refint\11.003_Generic.dll
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.pdb
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\11.003_Generic.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\11.003_Generic\obj\Debug\net7.0\ref\11.003_Generic.dll

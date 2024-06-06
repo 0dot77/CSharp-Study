@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\bin\Debug\net7.0\10.020_ex002.exe
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\bin\Debug\net7.0\10.020_ex002.deps.json
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\bin\Debug\net7.0\10.020_ex002.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\bin\Debug\net7.0\10.020_ex002.dll
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\bin\Debug\net7.0\10.020_ex002.pdb
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.dll
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\refint\10.020_ex002.dll
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.pdb
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\10.020_ex002.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\10.020_ex002\obj\Debug\net7.0\ref\10.020_ex002.dll

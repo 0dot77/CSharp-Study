@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\bin\Debug\net7.0\11.008_UsingDictionary.exe
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\bin\Debug\net7.0\11.008_UsingDictionary.deps.json
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\bin\Debug\net7.0\11.008_UsingDictionary.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\bin\Debug\net7.0\11.008_UsingDictionary.dll
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\bin\Debug\net7.0\11.008_UsingDictionary.pdb
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.dll
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\refint\11.008_UsingDictionary.dll
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.pdb
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\11.008_UsingDictionary.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\11.008_UsingDictionary\obj\Debug\net7.0\ref\11.008_UsingDictionary.dll

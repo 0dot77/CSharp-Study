@@ -1,0 +1,15 @@
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\bin\Debug\net7.0\11.006_UsingGenericQueue.exe
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\bin\Debug\net7.0\11.006_UsingGenericQueue.deps.json
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\bin\Debug\net7.0\11.006_UsingGenericQueue.runtimeconfig.json
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\bin\Debug\net7.0\11.006_UsingGenericQueue.dll
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\bin\Debug\net7.0\11.006_UsingGenericQueue.pdb
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.AssemblyInfoInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.AssemblyInfo.cs
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.sourcelink.json
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.dll
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\refint\11.006_UsingGenericQueue.dll
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.pdb
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\11.006_UsingGenericQueue.genruntimeconfig.cache
+C:\Users\yty07\Desktop\study\C#\11.006_UsingGenericQueue\obj\Debug\net7.0\ref\11.006_UsingGenericQueue.dll
